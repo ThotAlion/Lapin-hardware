@@ -1,9 +1,10 @@
 # Lapin-hardware
-=======
+---
 # Hardware of the lapin biped robot
 
 Here is gathered the hardware of the robot, and the BOM. This can change during the search on this robot
-[]()
+![Overview](https://raw.githubusercontent.com/ThotAlion/Lapin-hardware/master/photo1.jpg)
+
 ---
 
 ## Mechanical constraints and golden rules
